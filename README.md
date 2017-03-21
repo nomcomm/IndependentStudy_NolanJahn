@@ -7,7 +7,19 @@ The main purpose was to...
 Documentation
 -------------
 
+A good tutorial to learn git is: https://try.github.io
+
+### Step 1: Installing freesurfer
 Text goes here
+
+### Step 2: Segmenting the brain
+
+
+### Step 3: Preparing for 3d Print.
+
+
+and so on...
+
 
 Examples
 --------
