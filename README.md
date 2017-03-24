@@ -9,13 +9,17 @@ Documentation
 
 A good tutorial to learn git is: https://try.github.io
 
-### Step 1: Installing freesurfer
+### Step 1: Segmenting the brain
 Text goes here
+#### Installing freesurfer
+#### Running segmentation command
+#### Checking the results
 
-### Step 2: Segmenting the brain
+### Step 2: Preparing the brain surface for 3d printing
+#### a
+#### b
 
-
-### Step 3: Preparing for 3d Print.
+### Step 3: Preparing for Virtual Reality
 
 
 and so on...
@@ -37,5 +41,5 @@ Dependencies
 
 Development
 -----------
-
 https://github.com/nomcomm
+Nolan Jahn & Ralf Schmaelzle
