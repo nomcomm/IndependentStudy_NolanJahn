@@ -19,10 +19,18 @@ Text goes here
 #### a
 #### b
 
-### Step 3: Preparing for Virtual Reality
+### Step 3: Preparing for Virtual Reality: Converting .3ds file to a .osgb (Open Scene Graphics file)
 
+#### a) Download brain image as a .3ds file, save to Desktop as something (e.g., brain.3ds)
+#### b) Download 2 free programs: Autodesk 3DS Max (2016 or 2017; free for students) and OSG Exporter of same year
+#### c) Open 3DS Max, go to File -> Import -> open the brain.3ds file from your computer
+#### d) Once brain.3ds is imported and visible on 3DS Max, go to File -> Export -> File type -> OSGB -> and save as brain.osgb
+#### e) A dropdown menu will open up. Click check boxes as you see fit, and at the bottom of this menu click OK
+#### f) The Autodesk 3DS Inspector Editor will open and show the brain. Change color and lighting as you wish.
 
-and so on...
+### Step 4: Preparing for Virtual Reality: Programming the .osgb file into an empty VR world
+
+#### a) 
 
 
 Examples
