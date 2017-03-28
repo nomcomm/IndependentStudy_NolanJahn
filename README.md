@@ -4,6 +4,7 @@ Independent Study Nolan Jahn
 This repository was created to keep track of  Nolan Jahn's Independent Study in the Lab in SS2017 at Michigan State University.
 The main purpose was to learn how to extract brains
 Then we were joined by Eric Novotny and moved into VR
+It went so great we were even able to go to charisma.... and print out.....
 
 Documentation
 -------------
