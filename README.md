@@ -2,7 +2,8 @@ Independent Study Nolan Jahn
 =======================================
 
 This repository was created to keep track of  Nolan Jahn's Independent Study in the Lab in SS2017 at Michigan State University.
-The main purpose was to...
+The main purpose was to learn how to extract brains
+Then we were joined by Eric Novotny and moved into VR
 
 Documentation
 -------------
@@ -47,7 +48,7 @@ Text goes here
       #doubles size
       brain.setScale(2.0,2.0,2.0)   
 	
- ### Step 6: Preparing for Virtual Reality 3: Getting brain into VR and seeable with HTC Vive 
+ ### Step 5: Preparing for Virtual Reality 3: Getting brain into VR and seeable with HTC Vive 
  
 	a) Turn on the HTC Vive (VR hardware) via the CARISMA lab computer
 	b) In Vizard, go to Tools and click on Vizconnect, and press OK on prompt
