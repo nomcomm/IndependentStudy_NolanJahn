@@ -20,6 +20,8 @@ Text goes here
 ### Step 2: Preparing the brain surface for 3d printing
 #### a
 #### b
+http://github.com - automatic![GitHub](http://github.com)
+
 
 ### Step 3: Preparing for Virtual Reality 1: Converting .3ds file to a .osgb (Open Scene Graphics file)
 
