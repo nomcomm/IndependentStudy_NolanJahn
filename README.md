@@ -13,6 +13,10 @@ A good tutorial to learn git is: https://try.github.io
 
 ### Step 1: Segmenting the brain
 Text goes here
+Here is the short description
+Here is the entire [tutorial] (https://github.com/nomcomm/IndependentStudy_NolanJahn/blob/master/3d_printing/3D_print.md)
+
+
 #### Installing freesurfer
 #### Running segmentation command
 #### Checking the results
