@@ -2,16 +2,18 @@ Independent Study Nolan Jahn
 =======================================
 
 This repository was created to keep track of  Nolan Jahn's Independent Study in the Lab in SS2017 at Michigan State University.
-The main purpose was to learn how to extract brains
-Then we were joined by Eric Novotny and moved into VR
-It went so great we were even able to go to charisma.... and print out.....
+The main purpose was to learn how to reconstruct a 3D image of a brain from a T1 MRI scan of a head, using FreeSurfer software. 
+The surface image, then was imported into a modeling software, in this case MeshLab, to be prepared for 3D printing.
+The model was brought to the Michigan State University Library, to be printed at thier Make Centeral 3D printing station.
+Then we were joined by Eric Novotny and moved into virtual reality.
+MSU Communication Department's Charisma Lab, which features HTC Vive VR system. 
 
 Documentation
 -------------
 
 A good tutorial to learn git is: https://try.github.io
 
-### Step 1: Segmenting the brain
+### Step 1: Reconstucting the brain
 Text goes here
 Here is the short description
 Here is the entire [tutorial](https://github.com/nomcomm/IndependentStudy_NolanJahn/blob/master/3d_printing/3D_print.md)
