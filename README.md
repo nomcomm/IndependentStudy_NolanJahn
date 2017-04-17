@@ -16,10 +16,10 @@ A good tutorial to learn git is: https://try.github.io
 ### Step 1: Reconstucting the brain
 The first step in this project is to take the T1 MRI scan and to digitally reconstruct a 3D image of the brain, including all the segmented parts.
 There are three main steps to the reconstruction: installing freesurfer (the MRI scan analyzing software), run the reconstruction command, and finally check the results of the command.
-Here is the entire [tutorial](https://github.com/nomcomm/IndependentStudy_NolanJahn/blob/master/3d_printing/3D_print.md)
+Here is the entire [tutorial.](https://github.com/nomcomm/IndependentStudy_NolanJahn/blob/master/brain_segmentation/Segmentation.md)
 #### Installing freesurfer
-Here is the link to FreeSurfer [website](https://surfer.nmr.mgh.harvard.edu/)
-There are versions for various operating systems, I personally used a Mac for this project, so the following instructions will all be specific for a Mac, however FreeSurfer has their own Wiki page that can help with any questions that you will have not addressed in this [tutorial](https://surfer.nmr.mgh.harvard.edu/fswiki/FreeSurferWiki)
+Here is the link to [FreeSurfer website.](https://surfer.nmr.mgh.harvard.edu/)
+There are versions for various operating systems, I personally used a Mac for this project, so the following instructions will all be specific for a Mac, however FreeSurfer has their own Wiki page that can help with any questions that you will have not addressed in this [tutorial.](https://surfer.nmr.mgh.harvard.edu/fswiki/FreeSurferWiki)
 It is crucial after downloading to the software, to also download a license agreement, this is free as well. 
 #### Running Reconstruction command
 Utalizing FreeSurfer is done in what is called the Terminal for Macs. The Terminal is a powerful tool to operate the software, and it helps to have some background on how to code in command line language, although it is not necessary.
@@ -38,7 +38,7 @@ The Recon all function will also the segment the subcortical structures and the 
 The first step in this process, is turning the pial images into .stl files, which can be opened in any softwware that prepares images to be 3D printed.
 #### B
 Next, a software to prepare the image for printing will have to be downloaded. 
-I used Meshlab for my software, this also can be downloaded for various operating [systems](http://www.meshlab.net/)
+I used Meshlab for my software, this also can be downloaded for various operating [systems.](http://www.meshlab.net/)
 After the software is downloaded, both .stl files can be opened at the same time into Meshlab.
 After a few minor adjustments to the meshes are made, it can be exported as one complete mesh that is ready for printing.
 #### C
