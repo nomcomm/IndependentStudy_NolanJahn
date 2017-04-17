@@ -29,7 +29,7 @@ $> freeview -v \
 ```
 
 If run correctly, this image below is what should been seen in Freeview.
-![alt text](IndependentStudy_NolanJahn/Screen Shot 2017-04-17 at 5.36.28 PM.png)
+![alt text](https://github.com/nomcomm/IndependentStudy_NolanJahn/blob/master/Screen%20Shot%202017-04-17%20at%205.36.28%20PM.png)
 
 If it worked, you are ready to move on to the Recon-all function.
 
@@ -37,6 +37,6 @@ If it worked, you are ready to move on to the Recon-all function.
 First, the location of the MRI scan folder needs to be in an easy to direct to location.
 Putting the file on the desktop is typically the easiest. 
 When pulling up the the file on Finder there will be a directive path at the bottom, as highlighted on the photo below.
-![alt text](IndependentStudy_NolanJahn/Edited Screen Shot.jpg)
+![alt text](https://github.com/nomcomm/IndependentStudy_NolanJahn/commit/283f019e2a162c766fe012e6d1ef1ee95e20bb4f)
 
 Once, you know the path to the file, the path has to be coded in the Terminal.
