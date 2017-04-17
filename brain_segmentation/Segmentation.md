@@ -37,6 +37,6 @@ If it worked, you are ready to move on to the Recon-all function.
 First, the location of the MRI scan folder needs to be in an easy to direct to location.
 Putting the file on the desktop is typically the easiest. 
 When pulling up the the file on Finder there will be a directive path at the bottom, as highlighted on the photo below.
-![alt text](https://github.com/nomcomm/IndependentStudy_NolanJahn/commit/283f019e2a162c766fe012e6d1ef1ee95e20bb4f)
+![alt text](https://github.com/nomcomm/IndependentStudy_NolanJahn/blob/master/Edited%20Screen%20Shot.jpg)
 
 Once, you know the path to the file, the path has to be coded in the Terminal.
