@@ -5,16 +5,16 @@
 After downloading the software package, open the Terminal window on your computer. 
 The first step is to set to define the home enviroment for FreeSurfer, the code below is for the Terminal for Macs.
 
-'''
+```
 $> export FREESURFER_HOME=/Applications/freesurfer
 $> source $FREESURFER_HOME/SetUpFreeSurfer.sh
-'''
+```
 
 After the enviroment is set, which is needed to be done each time the terminal is opened, it is time to test that the installation work. 
 FreeSurfer has two different sets of code that allow you to test your download.
 I personally only used the one that ended with the opening of their example MRI scan in Freeview.
 
-'''
+```
 $> cd $FREESURFER_HOME/subjects
 $> freeview -v \
     bert/mri/T1.mgz \
@@ -26,7 +26,7 @@ $> freeview -v \
     bert/surf/lh.pial:edgecolor=red \
     bert/surf/rh.white:edgecolor=blue \
     bert/surf/rh.pial:edgecolor=red
-'''
+```
 
 If run correctly, this image below is what should been seen in Freeview.
 ![alt text](IndependentStudy_NolanJahn/Screen Shot 2017-04-17 at 5.36.28 PM.png)
