@@ -77,4 +77,4 @@ recon-all -i /Users/nolanjahn/Desktop/ralfbrain/Ralf_MRT.nii -s ralfbrain3 -all
 If no error is seen right after running this command, the program will run for anywhere from a couple of hours to a couple of days.
 Afterward, in the folder that was your subject file, there will be number of new sub folders with new files. 
 In the ralfbrain3 folder, there is a sub folder, surf, that has dozens of new files.
-Two files from the surf folder will be use going forward, lh.pial and rh.pial.
+Two files from the surf folder will be used going forward, lh.pial and rh.pial.
