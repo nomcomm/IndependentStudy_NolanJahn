@@ -17,7 +17,7 @@ mris_convert/users/nolanjahn/Desktop/ralfbrain/ralfbrain3/surf/rh.pial rh.stl
 After completing this step, there will be two new files in the surf folder, lh.stl and rh.stl.
 Now these files can be opened up in a modeling software to be prepared for printing.
 
-### Preparing Meshes for 3D printing 
+#### Preparing Meshes for 3D printing 
 As stated in the overview, to prepare the .stl files for printing a modeling software is needed. I used [Meshlab](http://www.meshlab.net/) for this. 
 Once the program is downloaded, the two .stl files can be imported and combined to form one single brain mesh.
 Just a note for when using Meshlab, there is no undo button, like on most programs, instead any mistake made will result in importing the files again.
@@ -40,3 +40,10 @@ It allows you type in the number of vertices you want, and will merge accordingl
 Go to **Filters, Remeshing Simplification Reconstructiong**, and select **Simplification: Quadratic Edge Collapse Decimation**.
 After doing this a box will appear with an area to type in the desired amount of vertices. 
 As I said, I did not do this for when I printed my brian image, however if the printer you use cannot handle the amount, it is an easy change. 
+
+#### Printing the Finalized Mesh
+
+Now that there is a finalized single mesh, the mesh can be exported as an .stl file.
+The .stl file is ready to be printed on a 3D printer. 
+An important thing to remember is that an .stl file is dimensionless, so it is easy to adjust the size to fit the price that you want to spend on your print.
+
