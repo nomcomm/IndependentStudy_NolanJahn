@@ -14,18 +14,25 @@ Documentation
 A good tutorial to learn git is: https://try.github.io
 
 ### Step 1: Reconstucting the brain
+
 The first step in this project is to take the T1 MRI scan and to digitally reconstruct a 3D image of the brain, including all the segmented parts.
 There are three main steps to the reconstruction: installing freesurfer (the MRI scan analyzing software), run the reconstruction command, and finally check the results of the command.
 Here is the entire [tutorial.](https://github.com/nomcomm/IndependentStudy_NolanJahn/blob/master/brain_segmentation/Segmentation.md)
+
 #### Installing freesurfer
+
 Here is the link to [FreeSurfer website.](https://surfer.nmr.mgh.harvard.edu/)
 There are versions for various operating systems, I personally used a Mac for this project, so the following instructions will all be specific for a Mac, however FreeSurfer has their own Wiki page that can help with any questions that you will have not addressed in this [tutorial.](https://surfer.nmr.mgh.harvard.edu/fswiki/FreeSurferWiki)
 It is crucial after downloading to the software, to also download a license agreement, this is free as well. 
+
 #### Running Reconstruction command
+
 Utalizing FreeSurfer is done in what is called the Terminal for Macs. The Terminal is a powerful tool to operate the software, and it helps to have some background on how to code in command line language, although it is not necessary.
 After having the checked that the download for FreeSurfer worked correctly, it is time to code FreeSurfer to run the "Recon-all" command, which will reconstruct the MRI scan, which should be saved as a NIFTI file, into a 3D image.
 If the command is running properly, it will take several hours or up to a day, for your computer to finish the reconstruction, depending on the processing power of your computer. 
+
 #### Checking the results
+
 The finished product will result in a new folder in the folder that held your original NIFTI T1 MRI scan. 
 This folder will have the name surf, and it will should have several different images that have a label of lh or rh, which stand for left hemisphere and right hemisphere respectively.
 The two that are of most interest are lh.pial and rh.pial, both of these are 3D images of the outer cortical surface, which is what is wanted to be printed.
@@ -34,13 +41,16 @@ After this step, you will be ready to move on to preparing the 3D images for pri
 The Recon all function will also the segment the subcortical structures and the cerebellum, if you want to print that as well. 
 
 ### Step 2: Preparing the brain surface for 3D printing
+
 #### Converting files
-The first step in this process, is turning the pial images into .stl files, which can be opened in any software that prepares images to be 3D printed.
+The first step in this process, is turning the pial images into .stl files, which can be opened in any software that prepares images to be 3D printed. The details to this step and the following ones can be found on this [tutorial](https://github.com/nomcomm/IndependentStudy_NolanJahn/blob/master/3d_printing/3D_print.md)
+
 #### Preapare Meshes for 3D printing
 Next, a software to prepare the image for printing will have to be downloaded. 
 I used Meshlab for my software, this also can be downloaded for various operating [systems.](http://www.meshlab.net/)
 After the software is downloaded, both .stl files can be opened at the same time into Meshlab.
 After a few minor adjustments to the meshes are made, it can be exported as one complete mesh that is ready for printing.
+
 #### Print the finalized Mesh
 After the alterations are made, and there is one ready to print .stl file, it is time to find access to a 3D printer.
 As a student at Michigan State Univeristy, I used our library 3D printer.
