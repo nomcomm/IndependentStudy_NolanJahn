@@ -37,6 +37,6 @@ This will make the mesh a little nicer in appearence.
 
 Finally, the last step, one that I did not personally take, however may be necessary if the 3D printer you use cannot handle the number of vertices of the mesh.
 It allows you type in the number of vertices you want, and will merge accordingly.
-Go to **Filters**,** Remeshing Simplification Reconstructiong**, and select **Simplification: Quadratic Edge Collapse Decimation**.
+Go to **Filters, Remeshing Simplification Reconstructiong**, and select **Simplification: Quadratic Edge Collapse Decimation**.
 After doing this a box will appear with an area to type in the desired amount of vertices. 
 As I said, I did not do this for when I printed my brian image, however if the printer you use cannot handle the amount, it is an easy change. 
