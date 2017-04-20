@@ -24,14 +24,14 @@ Just a note for when using Meshlab, there is no undo button, like on most progra
 
 
 To do this, go to **File** and then select **Import Mesh...**
-Select one of the two files and then it will ask to unify duplicate vertices, select **Ok**
+Choose one of the two files and then it will ask to unify duplicate vertices, select **Ok**
 Repeat the process for the other file, and Meshlab will connect the two hemispheres to complete the brian.
 After this, there are a few steps to refine the image for printing. 
 
 
 First, go to **Filters** menu, **mesh layer**, select **flatten Visible Layers**, and hit the **Apply** button.
 Now it is ready for printing, however there are additional steps to help the pritning.
-Second, go to **Filters**, **Smoothing Fairing and Deformation**, and select **Laplacian Smooth**
+Second, go to **Filters**, **Smoothing Fairing and Deformation**, and select **Laplacian Smooth**.
 This will make the mesh a little nicer in appearence. 
 
 
