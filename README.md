@@ -34,14 +34,14 @@ After this step, you will be ready to move on to preparing the 3D images for pri
 The Recon all function will also the segment the subcortical structures and the cerebellum, if you want to print that as well. 
 
 ### Step 2: Preparing the brain surface for 3D printing
-#### A
-The first step in this process, is turning the pial images into .stl files, which can be opened in any softwware that prepares images to be 3D printed.
-#### B
+#### Converting files
+The first step in this process, is turning the pial images into .stl files, which can be opened in any software that prepares images to be 3D printed.
+#### Preapare Meshes for 3D printing
 Next, a software to prepare the image for printing will have to be downloaded. 
 I used Meshlab for my software, this also can be downloaded for various operating [systems.](http://www.meshlab.net/)
 After the software is downloaded, both .stl files can be opened at the same time into Meshlab.
 After a few minor adjustments to the meshes are made, it can be exported as one complete mesh that is ready for printing.
-#### C
+#### Print the finalized Mesh
 After the alterations are made, and there is one ready to print .stl file, it is time to find access to a 3D printer.
 As a student at Michigan State Univeristy, I used our library 3D printer.
 There are many online sources that allow you to submit a file to be printed.
