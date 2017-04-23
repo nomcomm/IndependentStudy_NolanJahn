@@ -1,5 +1,5 @@
-### Description of 3D Printin Steps
-Now that there are two files represent the surface of each hemisphere of the brain, there are a couple of steps before to complete to reach the point of a printed copy of a brain. 
+### Description of 3D Printing Steps
+Now that there are two files represent the surface of each hemisphere of the brain, there are a couple of steps to complete to reach the point of a printed copy of a brain. 
 
 #### Converting Files to .stl Files
 The two files of interest are saved as .pial, which indicates that it is the outer-most surface of the brain.
