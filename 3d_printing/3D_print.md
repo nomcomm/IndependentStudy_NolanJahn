@@ -47,3 +47,6 @@ Now that there is a finalized single mesh, the mesh can be exported as an .stl f
 The .stl file is ready to be printed on a 3D printer. 
 An important thing to remember is that an .stl file is dimensionless, so it is easy to adjust the size to fit the price that you want to spend on your print.
 
+![alt text](https://github.com/nomcomm/IndependentStudy_NolanJahn/blob/master/Brain%20Edit.jpg)
+![alt text](https://github.com/nomcomm/IndependentStudy_NolanJahn/blob/master/Brain%202%20Edit.jpg)
+
