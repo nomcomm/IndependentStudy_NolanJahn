@@ -3,7 +3,7 @@
 
 ### Instillation of FreeSurfer
 After downloading the software package, open the Terminal window on your computer. 
-The first step is to set to define the home enviroment for FreeSurfer, the code below is for the Terminal for Macs.
+The first step is to define the home enviroment for FreeSurfer, the code below is what needs to be entered in the Terminal for Macs.
 
 ```
 $> export FREESURFER_HOME=/Applications/freesurfer
@@ -45,7 +45,7 @@ When pulling up the the file on Finder there will be a directive path at the bot
 
 Once, you know the path to the file, the path has to be coded in the Terminal.
 Below is the code for the Subject Directive command in the Terminal.
-The first line will the code with no path inserted, the next will be the code with the path to my file inserted.
+The first line will be the code with no path inserted, the next will be the code with the path to my file inserted.
 
 ```
 SUBJECTS_DIR=/path/goes/here
@@ -59,7 +59,7 @@ To check if this worked correctly, test it with the code below.
 $SUBJECTS_DIR
 ```
 
-If it worked the output will say
+If it worked, the output will say
 ```
 -bash: /Users/nolanjahn/Desktop/ralfbrain: is a directory
 ```
