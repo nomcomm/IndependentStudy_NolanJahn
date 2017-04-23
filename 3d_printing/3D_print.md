@@ -39,7 +39,9 @@ Finally, the last step, one that I did not personally take, however may be neces
 It allows you type in the number of vertices you want, and will merge accordingly.
 Go to **Filters, Remeshing Simplification Reconstructiong**, and select **Simplification: Quadratic Edge Collapse Decimation**.
 After doing this a box will appear with an area to type in the desired amount of vertices. 
-As I said, I did not do this for when I printed my brian image, however if the printer you use cannot handle the amount, it is an easy change. 
+As I said, I did not do this for when I printed my brian image, however if the printer you use cannot handle the amount, it is an easy change. Below is a screenshot of what the completed mesh should look like after these steps are taken. 
+
+![alt text](https://github.com/nomcomm/IndependentStudy_NolanJahn/blob/master/Screen%20Shot%202017-04-23%20at%205.05.02%20PM.png)
 
 #### Printing the Finalized Mesh
 
