@@ -7,11 +7,11 @@ Fortunately, Freesurfer is equipped with the ability to convert these files to .
 It is a relatively easy code to convert the files, and like previously for the recon-all command, the path to the .pial files will be needed.
 Below is the command, the first version will be without any specific path, the second will be the path I used for the lh.pial, and the third will be for rh.pial.
 ```
-mris_convert/path/to/file name.stl
+mris_convert /path/to/file name.stl
 
-mris_convert/users/nolanjahn/Desktop/ralfbrain/ralfbrain3/surf/lh.pial lh.stl
+mris_convert /users/nolanjahn/Desktop/ralfbrain/ralfbrain3/surf/lh.pial lh.stl
 
-mris_convert/users/nolanjahn/Desktop/ralfbrain/ralfbrain3/surf/rh.pial rh.stl 
+mris_convert /users/nolanjahn/Desktop/ralfbrain/ralfbrain3/surf/rh.pial rh.stl 
 ```
 
 After completing this step, there will be two new files in the surf folder, lh.stl and rh.stl.
